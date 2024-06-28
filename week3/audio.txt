@@ -1,0 +1,12 @@
+Making Audio with AI
+
+
+The last piece to create for our story is some audio. We played with Udio previously, and it really is the best music generator available, so if you’d like to make a tune for your video, head over to Udio.
+
+Storytelling needs two extra pieces – ambient sounds like people talking, water splashing, or electronics humming in the background of Kwame’s lab in my story. The other piece is speech. Our video had a script and characters talking in that script.
+
+Stable Audio will help us create music and ambient sound we can use to liven up our video, and Pika, the tool we used before, to create voices for our characters.
+LINKS
+https://www.udio.com/
+https://www.stableaudio.com/
+https://pika.art/home
