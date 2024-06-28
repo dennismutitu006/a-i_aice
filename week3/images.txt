@@ -1,0 +1,23 @@
+The evolution of Text-to-Image AI tools marks a significant advancement in AI applications, offering innovative solutions for visual storytelling. This guide shines a spotlight on two pioneering methods to amplify your storytelling prowess.
+
+Prompting Tips
+Prompting these image generators is often a trial-and-error approach that takes a lot of time to refine. Our creative production team gave us these great tips when creating images:
+
+Be specific with your prompts to avoid generic results. Use commas or full stops to separate different aspects.
+
+Example: Instead of saying “a colorful bird,” specify “a vibrant red cardinal perched on a snowy branch, detailed feathers.”
+
+Understand and experiment with the tool’s basic variables (like stylization and aspect ratio) to enhance outcomes.
+
+Example: For a whimsical effect, adjust the chaos or weirdness settings. If aiming for a portrait, play with the aspect ratio for the best composition.
+
+Describe details precisely, such as clothing, instead of vague terms like ‘hand’ or ‘feet’.
+
+Example: Instead of “a person standing,” say “a woman in a flowing blue dress holding a sunhat, standing on a cobblestone path.”
+
+Don’t settle on the first result; try several variations of your prompt before making significant changes.
+
+Example: If the first image of a “snowy mountain at sunrise” doesn’t capture the light correctly, adjust the prompt to “snowy mountain bathed in the golden light of sunrise” before completely changing your concept.
+Creating Images with AI
+https://www.adobe.com/products/firefly.html
+https://leonardo.ai/
