@@ -1,0 +1,58 @@
+Uncover Hidden Stories in Your Data
+
+
+Data analysis is like untangling a mystery! You start with a mess of clues – patterns, trends, and relationships hiding in your data. But as you dig deeper, a fascinating story might begin to emerge. These insights become your secret weapon, informing decisions and igniting a spark of innovation. It’s not always easy, though. Sometimes, the trickiest pieces hide in plain sight, so you have to keep an open mind and explore every angle.
+
+The Challenge of Data Tables
+Tables are a standard format for presenting data because they provide a structured way to organize and display data. However, interpreting data tables can be challenging.
+
+Let’s look at a segment of a dataset that shows the global internet penetration rate from 2009 to 2023 by region from statista:https://www.statista.com/statistics/265149/internet-penetration-rate-by-region/
+
+Reflect:
+Take a moment to examine the table and consider what insights or patterns you can find just by looking at the raw data.
+
+Exploring Descriptive Statistics
+What if we could calculate some statistics using AI from the data table above that could provide some insights into the data? Some good AI tools like Julias.ai could help us with Exploratory Data Analysis beyond descriptive statistics. However, most of the useful ones are often behind a paywall. You’re welcome to try Julias.ai, but remember, you only have 15 free prompts per month.
+
+You might then ask, can I not simply put the dataset into a ChatGPT or Gemini prompt and ask it to summarize our data using descriptive statistics? The answer is complex: maybe sometimes. Large language models are really good at copying how humans use language, like writing stories or translating languages. But that doesn’t mean they’re good at things like crunching numbers and doing statistics. So, it’s important that we double-check any statistics calculated by an LLM.
+
+Put the LLMs to the test
+I asked both ChatGPT and Gemini the following:
+
+Prompt:
+Please summarize the following dataset using descriptive statistics.
+Gemini initially only explained the different descriptive statistics I could calculate. However, after I regenerated the response, Gemini gave me a table and the code behind this result. It did not provide me with any interpretation (as I didn’t explicitly ask for it).
+
+ChatGPT also explained the different descriptive statistics but gave me the results as a list. ChatGPT did not get it right
+
+Here are the results for the mean (average) value for each column in the dataset (except year):
+
+After a few prompts, ChatGPT and Gemini came to relatively similar conclusions in our Exploratory Data Analysis (which we could not see in the initial data table):
+
+Potential Upward Trend: The averages for all regions show a general increase from 2009 to 2023. This suggests a possible upward trend in the data.
+Variability Across Regions: The standard deviations reveal some interesting points about regional variability. For example, Africa has a relatively low standard deviation, indicating less variability in the rate of change of penetration compared to other regions.
+Regional Disparities: There are notable differences in the mean values among regions. For example, Europe consistently has higher mean values than other regions, while Africa typically has lower mean values. This suggests disparities in access to internet across these regions.
+Reflect:
+What insights on access to internet have you gained after delving into the data analysis process and exploring descriptive statistics? Do you think we have found everything there is to know?
+Visualization for Exploration
+Data visualization is not only used for storytelling; it is also a way for us to visually explore our data further. By representing data visually, we can identify patterns, trends, and relationships that may not be immediately apparent from raw numbers alone.
+
+Again, various AI tools can automatically create visualizations for us: ChartPixel, Julius.ai, and Breadcrumb.ai have limited interactions on free accounts.
+
+So, let’s see what ChatGPT and Gemini have to offer:
+Put the LLMs to the test
+Prompt:
+I want to extend my exploration of the data through visualization. Which data visualizations might help me?
+Line Chart: This is the most common and effective way to visualize trends over time. A line chart would plot the years on the x-axis and the values for each region on the y-axis. Multiple lines will be displayed, one for each region, allowing you to see how the values change for each region over the years. This will help confirm or disprove the potential upward trend you identified earlier.
+
+
+Using the original dataset, I created the following line chart:
+
+Final Thoughts
+Comparing the insights gained from the data table, descriptive statistics, and visualization provides an initial understanding of internet penetration rates across different regions.
+
+The data table provided a clear layout of the raw numbers, making it easy to compare different regions and years. By summarizing key aspects of the data, descriptive statistics helped us see trends and differences, such as average values and variations. We could identify regional differences and potential trends over time by looking at measures like mean values and standard deviations.
+
+However, the data truly came to life through visualization. The line chart displayed the changes in internet penetration rates across regions over the years, showing both the overall increase in access and the ongoing gaps between regions. The chart highlighted the significant disparity in internet penetration between Africa and other regions, despite the positive trend observed in Africa.
+
+While we used AI to help uncover hidden stories within our data, this also showed the limitations of only relying on AI. We had to double-check the statistical calculations, prompt multiple times, and guide AI to ensure our insights were accurate.
