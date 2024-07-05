@@ -1,0 +1,49 @@
+Fairness in AI
+
+Bias in AI systems refers to the systematic errors or prejudices that can lead to unfair, discriminatory, or inaccurate outcomes. These biases can come from different sources, like the data used to train the AI models, the algorithms themselves, and the decisions made by the AI developers.
+
+Bias in AI comes from our own flaws as a civilization. The historical data we give AI models access to is filled with unaddressed injustices, biases, and prejudices. AI models “learn” these behaviors and become biased.
+
+AI developers apply AI algorithms without considering ethics, resulting in unintended consequences, often for people of color. However, solutions to these problems are often more complex. Let’s look at some cases where this has happened and continues to happen.
+
+Sources of Bias in AI
+Biased Training Data
+If the data used to train an AI model doesn’t represent the entire population or contains historical biases, the model may learn and continue these biases. For example, a facial recognition system trained primarily on images of light-skinned individuals may perform poorly on darker-skinned individuals. This was seen with some early facial recognition software, which had higher error rates for people of color.
+
+Another example we have seen when generating images or videos is AI’s portrayal of African faces.
+link https://www.youtube.com/shorts/h2zkTvfl_hk?feature=share
+Top Prompt: African kid happy smiling close up Pixar 3d
+Bottom Prompt: Kid happy smiling close up Pixar 3d
+When we specify that we want an African character, they are often portrayed as dirty, malnourished, and in impoverished conditions, while Caucasians are generally shown as attractive and in privileged circumstances.
+
+Algorithmic Bias
+The choice of algorithms and their settings can introduce biases into the AI system. For instance, COMPAS, an algorithm used in the US criminal justice system to assess the likelihood of a defendant reoffending, was found to be biased against African Americans, predicting higher risks of relapse into crime for them compared to white defendants.
+
+Societal Impacts of Biased AI
+Discrimination
+Biased AI can lead to unfair treatment and discrimination against people based on characteristics like race, gender, age, or socioeconomic status. For example, Amazon’s AI recruitment tool was scrapped after it was found to be biased against women, downgrading resumes that included the word “women’s” or that had women’s colleges listed.
+
+Perpetuation of Stereotypes
+AI systems that show biases can reinforce and continue harmful stereotypes and prejudices in society. An instance of this is seen in Google’s image recognition algorithm, which showed how AI can perpetuate offensive stereotypes.
+
+Lack of Fairness and Equity
+Biased AI can worsen existing inequalities and create barriers to equal opportunities and access to resources. For instance, studies have shown that AI-driven credit scoring systems may unfairly disadvantage minority groups, making it harder for them to get loans or credit approvals.
+
+For example, using ChatGPT to screen applications leads to discrimination against people of color based only on their names.
+Societal Impacts of Biased AI
+https://www.youtube.com/shorts/nKlMhIbmE_w?feature=share
+
+mitigating bias in ai
+Diverse and representative data
+algorithmic fairness
+Transparency and accountability
+ethical ai frameworks
+
+Navigating AI Bias as a User
+Even if you’re not an AI developer, it’s important to be aware of AI bias, especially if you use AI tools to make decisions. Here are some tips on how to navigate these issues:
+
+Be Critical of AI Outputs: Always question the outputs of AI tools before making decisions. Ask yourself if the result seems fair and reasonable. For example, if you’re using an AI tool to screen job applicants, check if the tool is favoring certain demographics over others.
+Understand the Data: Try to understand what kind of data the AI tool was trained on. If the data is biased, the AI’s decisions will be biased too. For instance, if an AI tool recommends music based on listening history, it might not suggest diverse genres if the training data is limited.
+Look for Transparency: Choose AI tools that are transparent about how they work and the data they use. Transparency helps in understanding and identifying potential biases. For example, some AI tools explain their decisions, which can help you see if any biases are at play.
+Use Diverse Tools: Don’t rely on a single AI tool for important decisions. Using multiple tools can help balance out biases. For example, if you’re using AI to get news recommendations, use several sources to get a more balanced view.
+By staying informed and critical, you can navigate AI bias and make more equitable decisions. By using these tools to create more diverse perspectives, characters and stories, we have the power to create more diverse training data for future AI.
