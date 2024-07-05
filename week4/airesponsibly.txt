@@ -1,0 +1,72 @@
+Using AI Responsibly
+
+Using AI for good is all about creating things that do not cause harm. By answering: “Will this [X] harm anyone?” and keeping AI ethics in mind, you will apply AI responsibly.
+
+In this piece, we talk specifically about one of the best, and one of the worst use cases for generative AI.
+
+AI has made the cost of education almost 0. YouTube videos went a long way to make educational content widely available, but what happened when there was some specific part that didn’t make sense to you? Since it was not a conversation, you couldn’t ask about the things you did not understand, and if you struggled to apply your knowledge to a different problem, it was impossible to check where you went wrong. Today, LLMs give us the ability to ask personalized questions and receive customized responses.
+
+AI has also unintentionally given power to bad people. You created deepfakes with the click of a few buttons. Imagine the implications of deepfake videos altering the outcome of elections, inciting violence, or disgracing someone. As AI ambassadors in Africa, we must emphasize the ethical use of AI and educate our peers when we see AI misused.
+Using AI to Improve Learning
+AI can serve as a flawed expert in various topics, providing explanations and insights that can stimulate further research and understanding. It helps offer multiple perspectives on a subject, encouraging critical analysis and deeper learning. But, always beware that AI can generate incorrect or fabricated information, known as “hallucinations”. Be very critical of a model’s output, and always question it’s answers.
+
+Here are some effective ways to learn about any topic with the help of large language models (LLMs):
+
+Ask an LLM to help you learn more about a topic. Getting curated resource recommendations from the LLM can accelerate your learning by pointing you to the most relevant and high-quality materials.
+
+Prompt
+“Recommend the best books, articles, blogs, and other resources for learning more about [topic].”
+
+Prompting the LLM to suggest related topics and concepts helps you make connections and see the bigger picture.
+Prompt
+“List some related topics to [subject] that I should explore to gain a broader understanding. Describe how they are connected.”
+
+The LLM can give you a structured learning plan to systematically develop a new skill.
+Prompt
+“Provide a step-by-step guide on how to learn [skill] as a beginner. Include tips, exercises, and recommended resources.”
+
+Ask an LLM to explain concepts in simple terms. LLMs can provide clear explanations of complex concepts. Engage the LLM in a dialogue to clarify any confusing points.
+
+Prompt
+“Let’s discuss [topic] and you can ask me questions to help me explore it further. We’ll work together to build a deep understanding, and you’ll provide feedback to identify any misconceptions or gaps in my knowledge.”
+
+This prompt encourages an interactive, exploratory approach to learning where the LLM guides you to a comprehensive understanding.
+
+Use an LLM to generate examples and walk through them. Have the LLM provide an example of what you are struggling with and step through the solution by doing.
+
+Prompt
+The problem I am struggling with is [insert specific problem type here]. I am having difficulty with [insert specific aspects or concepts you are struggling with].
+
+Instructions:
+
+Generate an Example: Create a clear and concise example problem related to the specific type of problem I mentioned. Ensure that the example is representative of common issues I might encounter.
+
+Step-by-Step Solution:
+
+Provide a detailed, step-by-step walkthrough of the solution to the example problem.
+Explain each step thoroughly, including any necessary background information, formulas, or concepts.
+Highlight key points or common pitfalls to watch out for.
+Prompt the LLM to summarize key papers and resources.
+
+Prompt
+“Summarize the key points and main ideas of [book/article/presentation] on [topic].”
+
+Having the LLM concisely summarize complex materials helps break down the information into more digestible parts.
+
+Use the LLM’s knowledge to answer specific questions. If you’re stuck on a particular aspect, query the model directly.
+
+Prompt
+“Create a series of questions that will test my knowledge of [topic].
+
+Identify gaps in my answers and provide better explanations.”
+
+Self-testing with the LLM’s questions is a powerful way to solidify your understanding and pinpoint areas that need more work.
+
+The key is to engage the LLM in a back-and-forth dialogue, asking it to explain, summarize, recommend, and test your knowledge. By leveraging the LLM’s vast knowledge and capabilities, you can rapidly expand your understanding of any topic.
+
+Understanding the Impact of AI on Misinformation
+AI is revolutionizing many aspects of our lives, from healthcare to entertainment. However, one of the less discussed but critically important areas is its potential to spread misinformation. As AI technology advances, the ability to create realistic but fake content has become easier and more accessible. This development poses significant challenges for distinguishing fact from fiction in the digital age.
+Activity
+Can you identify the deepfake in the video below? https://youtu.be/B4jNttRvbpU
+Reflect:
+How can you identify deepfakes and other AI-generated misinformation in the future? Consider the skills and tools you might need to develop to stay informed.
