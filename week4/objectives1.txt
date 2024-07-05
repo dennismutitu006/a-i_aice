@@ -1,0 +1,12 @@
+Using AI For Good
+
+AI is transforming the world in many positive ways, but it’s essential to use it responsibly. This lesson explores how AI can be used for good, focusing on fairness, environmental impact, and responsible usage. By understanding these aspects, we can ensure AI contributes positively to society and the environment.
+
+Unpack the Biases Found in AI Models
+Explore how biases in AI training data can lead to discriminatory outcomes and the broader societal impacts. Learn strategies to identify and mitigate these biases for the future.
+
+Explore the Link Between AI and the Environment
+Understand the environmental impact of AI technologies, including energy consumption and waste production, and explore how AI can also be harnessed to address environmental challenges and fight climate change.
+
+Learn to Use AI Responsibly
+Learn how to use AI as a transformative tool for learning and development while addressing ethical considerations and combating misinformation.
