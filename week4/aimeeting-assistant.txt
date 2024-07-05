@@ -1,0 +1,20 @@
+Discovery Activity: Finding Your Personal AI Meeting Assistant
+Introduction
+In today’s fast-paced digital world, having an AI meeting assistant can significantly boost productivity by transcribing, summarizing, and analyzing meetings. This activity will guide you through the process of finding your personal AI meeting assistant by exploring the capabilities of two popular tools: Fireflies and Otter AI.
+
+Battle of the Meeting Assistants: Fireflies vs Otter
+Option 1: Put the Meeting Assistants to the Test
+The most effective way to find the right meeting assistant for your needs is to compare them directly. In this activity, we will set up both Fireflies and Otter.ai, invite them to a test meeting, and evaluate their performance. Follow all the steps below to find your assistant.
+
+Option 2: Watch a Review to Decide
+If you don’t have time to explore each meeting assistant on your own, you can watch this video for an overview. After watching, choose your preferred assistant and follow the provided steps below to set it up and evaluate its performance. (You can ignore the steps for the assistant you did not choose.)link to vid= https://youtu.be/m6tPBKf1fEY
+
+Step 1: Setting Up Accounts
+Step 2: Scheduling a Google Meet
+Step 3: Conducting the Meeting
+Step 4: Reviewing the Notes
+Step 5: Comparing the Results
+Step 6: Reflection
+
+Conclusion
+Finding the right AI meeting assistant can significantly enhance your workflow by providing accurate transcriptions, useful summaries, and collaborative features. By exploring Fireflies and Otter AI, you’ve gained hands-on experience with two powerful tools, allowing you to make an informed decision about which one best suits your needs. Share your findings and reflections with us!
