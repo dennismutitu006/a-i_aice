@@ -1,0 +1,10 @@
+Improving operational efficiency is key to reducing costs and maximizing productivity
+By assessing and streamlining your current operational processes, you can implement
+strategies to optimize resources and reduce costs, boosting your business’s efficiency.
+
+Prompt:
+Act as an operations manager. Assess and analyze the current operational processes of
+the small business to identify bottlenecks, inefficiencies, and areas for improvement.
+Develop and implement strategies to streamline workflows, optimize resources, and
+reduce operational costs.
+Please provide a list of questions I need to answer so you have enough context before answering.
