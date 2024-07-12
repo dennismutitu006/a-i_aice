@@ -1,0 +1,14 @@
+g a detailed budget is essential for keeping your business on track financially.
+By analyzing past financial data and current trends, you can develop a budget that ensures
+operational efficiency and safeguards against unforeseen expenses.
+
+Prompt:
+Act as a Financial Advisor. Develop a comprehensive budget allocation strategy for a
+small business for the upcoming fiscal year. Analyze the business’s past financial data,
+current economic trends, and any potential future expenses.
+Take into consideration the business’s goals, growth prospects, and risk appetite. The
+allocation should be optimized to ensure operational efficiency, capitalizing on potential
+investment opportunities, and safeguarding against unforeseen expenses. Provide
+detailed recommendations on areas of investment, savings, and any necessary cutbacks.
+Please provide a list of questions I need to answer so you have enough context before answering.
+
