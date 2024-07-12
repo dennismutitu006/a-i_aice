@@ -1,0 +1,13 @@
+Finding growth opportunities ensures your business continues to expand and thrive.
+By analyzing your business’s current status and market positioning, you can discover and
+leverage opportunities to drive growth effectively.
+Prompt:
+Act as a growth expert specializing in small business development. Analyze the current
+status, operations, and market positioning of the small [business]. Identify potential
+growth opportunities, untapped market segments, and areas for expansion or improvement
+Provide actionable strategies to leverage these opportunities, including marketing tactics,
+operational enhancements, and potential partnerships. Ensure recommendations are
+practical, cost-effective, and tailored to the business’s capabilities and target audience.
+Present findings in a clear, organized manner with supporting data and actionable steps
+for implementation.
+Please provide a list of questions I need to answer so you have enough context before answering.
