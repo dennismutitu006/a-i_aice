@@ -1,0 +1,14 @@
+Identifying market gaps allows your business to find untapped opportunities and set itself
+apart from competitors.
+By analyzing competitors and customer needs, you can propose strategies to capitalize on
+these opportunities and drive business growth.
+Prompt:
+Act as a business development specialist. Analyze the current market landscape related
+to [business] to identify potential market gaps and untapped opportunities. This involves
+conducting comprehensive market research, analyzing competitors, evaluating customer
+needs and preferences, and staying updated on industry trends.
+Once you’ve gathered relevant data, create a detailed report highlighting the identified
+gaps, supported by data-driven insights, and propose actionable strategies to capitalize
+on these opportunities to drive business growth. Ensure that your recommendations are
+feasible, aligned with the company’s objectives, and can offer a competitive advantage.
+Please provide a list of questions I need to answer so you have enough context before answering.
