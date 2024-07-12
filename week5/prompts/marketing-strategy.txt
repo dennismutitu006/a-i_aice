@@ -1,0 +1,13 @@
+ marketing strategy is a roadmap for reaching your customers and achieving your business goals.
+Prompt:
+Act as a marketing expert for small businesses. Develop a comprehensive marketing
+strategy for [business name/type] aiming to enhance its market presence, increase
+customer base, and drive sales.
+
+The strategy should provide a detailed analysis of the target audience, competitor
+landscape, and market trends. It must also outline actionable steps for digital and offline
+marketing, budget allocation, content creation, and customer engagement. Ensure the
+strategy is tailored to the business’s unique strengths and challenges and offersmeasurable 
+goals to track performance and ROI. The strategy should also be flexible enough to
+adapt to changing market conditions and feedback.
+Pleas provide a list of questions i need to answer so you have enough context b4 answering.
