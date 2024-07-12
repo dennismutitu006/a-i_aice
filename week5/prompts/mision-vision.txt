@@ -1,0 +1,17 @@
+To Define Mission & Vision
+mission clearly states the business’s purpose, what it seeks to achieve
+vision depicts the long-term goals and aspirations, painting a picture
+of where the b/s sees itself in the future.
+
+Using this prompt, you can articulate a clear and inspiring mission and vision for your business.
+Prompt:
+Act as a seasoned serial entrepreneur with extensive experience in establishing
+successful ventures. Define the mission and vision for a small business in [industry]. The
+mission should clearly state the business’s purpose, what it seeks to achieve, and how it
+aims to serve its customers.
+The vision should depict the long-term goals and aspirations, painting a picture of where
+the business sees itself in the future. Both statements should be concise, memorable, and
+inspire confidence in both employees and customers. They should reflect the unique identity
+and values of the business, setting it apart from competitors. Ensure that the statements
+are adaptable, considering potential pivots or market changes.
+Please provide a list of questions I need to answer so you have enough context before answering.
