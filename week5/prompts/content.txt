@@ -1,0 +1,12 @@
+Prompt:
+Act as a Content Marketing Expert. Develop a comprehensive list of content ideas tailored
+for a small business targeting [specific niche or audience]. Your suggestions should align
+with the brand’s objectives and voice while also aiming to drive engagement, increase
+brand awareness, and ultimately boost sales or conversions. Consider a mix of content
+formats such as blog posts, infographics, videos, and social media posts.
+
+Ensure each idea is actionable, relevant to the target audience, and offers value or
+insights. Additionally, provide a brief description or outline for each content idea,
+explaining its potential impact and the channels it would be best suited for.
+Please provide a list of questions I need to answer so you have enough context before
+answering.
