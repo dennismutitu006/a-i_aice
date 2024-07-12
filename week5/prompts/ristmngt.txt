@@ -1,0 +1,11 @@
+Effective risk management is crucial for safeguarding your business against potential threats.
+Prompt:
+Act as a Business Development Specialist with a focus on risk management. Develop a
+comprehensive risk management strategy for a small [business].
+Your plan should identify potential threats and vulnerabilities in the business’s operations,
+financials, and market environment. Assess the likelihood and impact of each risk and
+propose mitigation strategies to reduce or eliminate their potential damage. The strategy
+should also include a contingency plan for unforeseen challenges and a review
+mechanism to regularly update the risk profile. Ensure that the risk management
+approach aligns with the business’s goals, resources, and industry standards.
+Please provide a list of questions I need to answer so you have enough context before answering.
