@@ -1,0 +1,11 @@
+By considering market trends and customer needs, you can develop product ideas that drive
+sales and enhance your brand’s reputation.
+Prompt:
+Act as a creative expert specializing in product ideation. Brainstorm innovative product
+ideas tailored for [business]. Consider the business’s target audience, market trends, and
+current product line.
+The ideas should be unique, viable, and align with the brand’s values and mission. 
+Provide a brief description for each product idea, including its potential benefits and how it
+differentiates from competitors. Ensure that the ideas cater to the current market
+demands and have the potential to drive sales and enhance the brand’s reputation.
+Please provide a list of questions I need to answer so you have enough context before answering.
