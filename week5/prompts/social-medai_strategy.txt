@@ -1,0 +1,11 @@
+Having a strong social media strategy is essential for increasing your online presence and
+engaging with customers.
+Prompt:
+Act as a social media marketing expert. Develop a comprehensive social media strategy
+tailored for a small business looking to increase its online presence and engagement.
+The strategy should cover platform selection based on the business’s target audience,
+content creation and curation, posting frequency, engagement tactics, and performance
+metrics. Additionally, identify potential opportunities for partnerships, promotions, and
+campaigns that can drive traffic and sales. Ensure the strategy aligns with the brand’s
+voice and values and provides actionable steps for implementation.
+Please provide a list of questions I need to answer so you have enough context before answering.
