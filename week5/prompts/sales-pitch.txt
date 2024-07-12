@@ -1,0 +1,14 @@
+By focusing on the value proposition and addressing customer needs and pain points, you can
+develop a sales pitch that drives action and builds trust.
+
+Prompt:
+Act as a seasoned salesman. Develop a compelling sales pitch for [product]. Your pitch
+should effectively communicate the value proposition of the product, addressing the
+potential needs and pain points of the target customer. Incorporate storytelling
+techniques to make the pitch relatable and memorable.
+Ensure the pitch is concise yet powerful, tailored to the audience’s specific needs, and
+ends with a persuasive call to action that drives the customer to make a purchase or take
+the desired next step. Use your expertise and years of experience to anticipate objections
+and be prepared to handle them confidently. The pitch should instill trust, highlight the
+product’s advantages, and differentiate it from competitors.
+Please provide a list of questions I need to answer so you have enough context before answering.
