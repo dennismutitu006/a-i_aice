@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=05vQ08uH-s0
+Writing a copwrite copy using llms
+https://www.youtube.com/watch?v=jC4v5AS4RIM
+Prompt
+Write a (length) (type of copy) about (product or service) for (target audience) using a (tone of voice). The call to action of the copy is to (desired outcome). Make sure to highlight (key points or features to include).
